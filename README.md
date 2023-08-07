@@ -1,9 +1,7 @@
-# **<u>Set Cards Game By Avinoam David</u>**
+# **<u>Set Cards Game By Roee Ziv</u>**
 ![Set Cards Game Logo](./resources/LOGO.jpg)
 ## About Me
 As for the time this project was built, I'm a 2nd year Computer Science student in Ben Gurion University. To this date i have knowledge at networks, apps, big data, designing algorithms and more, and I am fluent in C++, Java/#C, Python, Node.js and SQL.  
-
-This Game was chosen by me as it was the game my family used to play every friday night at our house after dinner, and so I held it close to my heart.  
 
 ## About the Project
 * The project was made in Java and in order to demonstrate my knowledge in *multi-threading* and designing algorithms. It was also made with small usage of *Swift* dir to make the game visible - though the front-end **was not the primary objective** of the project.
@@ -36,7 +34,7 @@ Util util = new UtilImpl(config);
 
         Player[] players = new Player[config.players];
 ```
-### Feel Free To Contact Me !!
+### Feel Free To Contact Me !
 
 
 

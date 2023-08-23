@@ -19,6 +19,7 @@ Hope you Enjoy!
      Or set "0" / negative number to have a normal timer or not show time at all (respectively).  
 * A simple program run will automatically load a pop up settings window which will allow editing and setting **SOME OF THE ADDED GAME FEATURES**.  
 To review the code or edit more settings, feel free to enter the *config.properties* class where you will find more cool features supported by the game!
+![alt](https://github.com/roeeziv/SetCards-Game/blob/f2e63b5157a3703f1cb567e7b63043f4f63fc30e/resources/cards/image_2023-08-23_232507854.png)
 * To init the game with editted properties (and not from the Settings panel), simply find and hide / un-hide the command line:  
 "*makeSettings(config);*" found in the *main* function at the *Main* class as shown here:
 

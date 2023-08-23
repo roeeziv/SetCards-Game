@@ -1,5 +1,5 @@
 # **<u>Set Cards Game By Roee Ziv</u>**
-![Set Cards Game Logo](./resources/LOGO.jpg)
+![Set Cards Game Logo](https://images.squarespace-cdn.com/content/v1/59ea6080a803bb2f70ecbae5/1515093490997-GW6I08O6Z46W6BN2RVUM/SET+Box.png)
 ## About Me
 As for the time this project was built, I'm a 2nd year Computer Science student in Ben Gurion University. To this date i have knowledge at networks, apps, big data, designing algorithms and more, and I am fluent in C++, Java/#C, Python, Node.js and SQL.  
 
